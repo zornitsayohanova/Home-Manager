@@ -1,5 +1,3 @@
-
-
 public class Fee
 {
    private double compulsoryFee;

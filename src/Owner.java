@@ -1,5 +1,3 @@
-
-
 public class Owner extends Person
 {
     private String ownerProfession;
